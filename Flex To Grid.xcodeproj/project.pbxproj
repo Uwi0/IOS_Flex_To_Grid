@@ -11,6 +11,8 @@
 		FB371E852C7E000000892F6E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB371E842C7E000000892F6E /* ContentView.swift */; };
 		FB371E872C7E000100892F6E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB371E862C7E000100892F6E /* Assets.xcassets */; };
 		FB371E8B2C7E000100892F6E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB371E8A2C7E000100892F6E /* Preview Assets.xcassets */; };
+		FB48C7F62C7E65D200A42B99 /* MyImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB48C7F52C7E65D200A42B99 /* MyImageView.swift */; };
+		FB48C7F82C7E685C00A42B99 /* RectangleTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB48C7F72C7E685C00A42B99 /* RectangleTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		FB371E862C7E000100892F6E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB371E882C7E000100892F6E /* Flex_To_Grid.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Flex_To_Grid.entitlements; sourceTree = "<group>"; };
 		FB371E8A2C7E000100892F6E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FB48C7F52C7E65D200A42B99 /* MyImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyImageView.swift; sourceTree = "<group>"; };
+		FB48C7F72C7E685C00A42B99 /* RectangleTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				FB371E822C7E000000892F6E /* Flex_To_GridApp.swift */,
 				FB371E842C7E000000892F6E /* ContentView.swift */,
+				FB48C7F52C7E65D200A42B99 /* MyImageView.swift */,
+				FB48C7F72C7E685C00A42B99 /* RectangleTextView.swift */,
 				FB371E862C7E000100892F6E /* Assets.xcassets */,
 				FB371E882C7E000100892F6E /* Flex_To_Grid.entitlements */,
 				FB371E892C7E000100892F6E /* Preview Content */,
@@ -141,6 +147,8 @@
 			files = (
 				FB371E852C7E000000892F6E /* ContentView.swift in Sources */,
 				FB371E832C7E000000892F6E /* Flex_To_GridApp.swift in Sources */,
+				FB48C7F62C7E65D200A42B99 /* MyImageView.swift in Sources */,
+				FB48C7F82C7E685C00A42B99 /* RectangleTextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
